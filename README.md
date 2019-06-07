@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Костин Евгений
-* Codeship : https://app.codeship.com/projects/b7522600-6b7d-0137-41f4-7632973b6a11/status?branch=master
+* Codeship : [![Codeship Status for John19840/master](https://app.codeship.com/projects/b7522600-6b7d-0137-41f4-7632973b6a11/status?branch=master)](https://app.codeship.com/projects/346815)
 
 
 ### How to start?  ###
